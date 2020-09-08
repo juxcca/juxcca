@@ -1,6 +1,6 @@
-### Hi there 👋
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Julio Castro.</h2>
 
+💬 I’m currently learning
 <!--
 **juxcca/juxcca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
