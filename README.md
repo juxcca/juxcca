@@ -7,7 +7,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Markdown
-- 🖥 &nbsp; Adobe XD| Photoshop
+- 🖥 &nbsp; Adobe XD | Photoshop
 <!--
 **juxcca/juxcca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
