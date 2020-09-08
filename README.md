@@ -1,7 +1,5 @@
 <h2> Hey there! I'm Julio Castro.</h2>
 
-💬 I’m currently learning
-
 <h3>🛠 Tech Stack - I’m currently learning</h3>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS
