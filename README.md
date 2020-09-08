@@ -12,7 +12,7 @@
 <p align="center">
 <a href="https://www.juxcca.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.juxcca.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.instagram.com/juxcca/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-juxcca-blue?style=flat-square&logo=instagram"></a>
-<a href="https://www.twitter.com/juxcca/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-juxcca-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.twitter.com/juxcca/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-juxcca-blue?style=flat-square&logo=twitter"></a>
 </p>
 <!--
 **juxcca/juxcca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
