@@ -1,12 +1,11 @@
-<h3> Hey there!</h3>
 <h2> I'm Julio Castro</h2>
 
 <h3>🛠 Tech Stack - I’m currently learning</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | MongoDB
+- 🌐 &nbsp;  HTML | CSS | JavaScript | Node.js | ReactJS
+- 🛢 &nbsp;  MySQL | MongoDB
 - 🔧 &nbsp; Git | Markdown
-- 🖥 &nbsp; Adobe XD | Photoshop
+- 🖥 &nbsp;  Adobe XD | Photoshop
 
 <h3> 🤝🏻 Connect with Me </h3>
 
