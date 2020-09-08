@@ -2,10 +2,10 @@
 
 <h3>🛠 Tech Stack - I’m currently learning</h3>
 
-- 🌐 &nbsp;  HTML | CSS | JavaScript | Node.js | ReactJS
-- 🛢 &nbsp;  MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown
-- 🖥 &nbsp;  Adobe XD | Photoshop
+- 🌐 &nbsp;  HTML - CSS - JavaScript - Node.js - ReactJS
+- 🛢 &nbsp;  MySQL - MongoDB
+- 🔧 &nbsp; Git - Markdown
+- 🖥 &nbsp;  Adobe XD - Photoshop
 
 <h3> 🤝🏻 Connect with Me </h3>
 
