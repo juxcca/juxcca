@@ -1,4 +1,5 @@
-<h2> Hey there! I'm Julio Castro.</h2>
+<h3> Hey there!</h3>
+<h2> I'm Julio Castro</h2>
 
 <h3>🛠 Tech Stack - I’m currently learning</h3>
 
